@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ciontryo.github.io/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/app/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/assets/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/css/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/data/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/includes/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/item/sitemap.html.gz
+Sitemap: https://ciontryo.github.io/src/sitemap.html.gz
